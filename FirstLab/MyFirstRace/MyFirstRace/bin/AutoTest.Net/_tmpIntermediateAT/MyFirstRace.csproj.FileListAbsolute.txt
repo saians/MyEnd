@@ -1,0 +1,5 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\bin\AutoTest.Net\_tmpIntermediateAT\MyFirstRace.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\bin\AutoTest.Net\_tmpIntermediateAT\MyFirstRace.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\bin\AutoTest.Net\MyFirstRace.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\bin\AutoTest.Net\MyFirstRace.pdb

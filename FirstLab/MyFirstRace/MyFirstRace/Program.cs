@@ -9,6 +9,7 @@ namespace MyFirstRace
         {
         static void Main(string[] args)
             {
+            Console.WriteLine("Fredag! ");
             }
         }
     }
