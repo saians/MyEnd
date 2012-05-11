@@ -1,0 +1,5 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\SubProjForFirstRace\bin\Debug\SubProjForFirstRace.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\SubProjForFirstRace\bin\Debug\SubProjForFirstRace.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\SubProjForFirstRace\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\SubProjForFirstRace\obj\x86\Debug\SubProjForFirstRace.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\SubProjForFirstRace\obj\x86\Debug\SubProjForFirstRace.pdb
