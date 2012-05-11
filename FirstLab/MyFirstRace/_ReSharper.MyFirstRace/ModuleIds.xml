@@ -1,3 +1,4 @@
 <Modules>
   <Module PersistentId="1C6B0F41-84CD-47EB-8D30-2DD7A1F12FCB" ModuleId="MyFirstRace" />
+  <Module PersistentId="D2E2E2EB-024B-4A5D-9147-766C455309A5" ModuleId="SubProjForFirstRace" />
 </Modules>
