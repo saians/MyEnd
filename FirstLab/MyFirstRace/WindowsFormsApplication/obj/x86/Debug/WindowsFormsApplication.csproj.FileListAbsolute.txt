@@ -7,3 +7,4 @@ C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WindowsFormsApplication\obj\x86\De
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.exe
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.TalkingForm.resources

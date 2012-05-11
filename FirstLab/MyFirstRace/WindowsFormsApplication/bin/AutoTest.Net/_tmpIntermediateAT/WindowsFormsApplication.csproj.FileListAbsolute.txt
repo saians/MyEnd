@@ -7,3 +7,4 @@ C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WindowsFormsApplication\bin\AutoTe
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WindowsFormsApplication\bin\AutoTest.Net\_tmpIntermediateAT\WindowsFormsApplication.pdb
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WindowsFormsApplication\bin\AutoTest.Net\WindowsFormsApplication.exe
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WindowsFormsApplication\bin\AutoTest.Net\WindowsFormsApplication.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WindowsFormsApplication\bin\AutoTest.Net\_tmpIntermediateAT\WindowsFormsApplication.TalkingForm.resources
