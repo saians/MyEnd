@@ -3,3 +3,6 @@ C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\SubProjForFirstRace\bin\Debug\SubP
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\SubProjForFirstRace\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\SubProjForFirstRace\obj\x86\Debug\SubProjForFirstRace.exe
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\SubProjForFirstRace\obj\x86\Debug\SubProjForFirstRace.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\SubProjForFirstRace\obj\x86\Debug\SubProjForFirstRace.GuyForm.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\SubProjForFirstRace\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\SubProjForFirstRace\obj\x86\Debug\GenerateResource.write.1.tlog
