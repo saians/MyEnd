@@ -2,4 +2,5 @@
   <Module PersistentId="1C6B0F41-84CD-47EB-8D30-2DD7A1F12FCB" ModuleId="MyFirstRace" />
   <Module PersistentId="D2E2E2EB-024B-4A5D-9147-766C455309A5" ModuleId="SubProjForFirstRace" />
   <Module PersistentId="88C93490-6C90-4119-BEB2-BF13E2E96873" ModuleId="WindowsFormsApplication" />
+  <Module PersistentId="32D8386F-38F7-4DAF-91FF-5E73ACCDFDB1" ModuleId="SwapingOfReferences" />
 </Modules>
