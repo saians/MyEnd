@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapingOfReferences", "SwapingOfReferences\SwapingOfReferences.csproj", "{32D8386F-38F7-4DAF-91FF-5E73ACCDFDB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuMaker", "MenuMaker\MenuMaker.csproj", "{5DC5F6F6-55D7-468D-9031-6D79B26969F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +33,10 @@ Global
 		{32D8386F-38F7-4DAF-91FF-5E73ACCDFDB1}.Debug|x86.Build.0 = Debug|x86
 		{32D8386F-38F7-4DAF-91FF-5E73ACCDFDB1}.Release|x86.ActiveCfg = Release|x86
 		{32D8386F-38F7-4DAF-91FF-5E73ACCDFDB1}.Release|x86.Build.0 = Release|x86
+		{5DC5F6F6-55D7-468D-9031-6D79B26969F2}.Debug|x86.ActiveCfg = Debug|x86
+		{5DC5F6F6-55D7-468D-9031-6D79B26969F2}.Debug|x86.Build.0 = Debug|x86
+		{5DC5F6F6-55D7-468D-9031-6D79B26969F2}.Release|x86.ActiveCfg = Release|x86
+		{5DC5F6F6-55D7-468D-9031-6D79B26969F2}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
