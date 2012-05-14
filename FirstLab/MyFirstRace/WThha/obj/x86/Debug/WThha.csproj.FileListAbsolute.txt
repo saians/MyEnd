@@ -1,0 +1,5 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WThha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WThha\bin\Debug\WThha.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WThha\bin\Debug\WThha.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WThha\obj\x86\Debug\WThha.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WThha\obj\x86\Debug\WThha.pdb

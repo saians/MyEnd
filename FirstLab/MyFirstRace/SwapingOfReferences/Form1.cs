@@ -11,7 +11,7 @@ namespace SwapingOfReferences
     {
     public partial class Form1 : Form
         {
-        private Elephant lucinda;
+        private Elephant lucinda; 
         private Elephant llyod;
 
         public Form1()
@@ -41,6 +41,15 @@ namespace SwapingOfReferences
             MessageBox.Show("Objects swapped..");
 
             }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            llyod.TellMe("hi", lucinda);
+            llyod.SpeakTo(lucinda,"its me llyod");
+            llyod = lucinda;
+            llyod.EarSize = 2212;
+            llyod.WhoAmI();
+        }
 
         }
     }

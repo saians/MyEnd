@@ -1,0 +1,5 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LeftOvers\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LeftOvers\bin\AutoTest.Net\_tmpIntermediateAT\LeftOvers.dll
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LeftOvers\bin\AutoTest.Net\_tmpIntermediateAT\LeftOvers.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LeftOvers\bin\AutoTest.Net\LeftOvers.dll
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LeftOvers\bin\AutoTest.Net\LeftOvers.pdb

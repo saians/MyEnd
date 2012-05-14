@@ -1,0 +1,5 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WThha\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WThha\bin\AutoTest.Net\_tmpIntermediateAT\WThha.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WThha\bin\AutoTest.Net\_tmpIntermediateAT\WThha.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WThha\bin\AutoTest.Net\WThha.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\WThha\bin\AutoTest.Net\WThha.pdb
