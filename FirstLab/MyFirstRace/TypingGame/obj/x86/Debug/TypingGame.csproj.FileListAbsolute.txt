@@ -1,0 +1,9 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\TypingGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\TypingGame\obj\x86\Debug\TypingGame.Form1.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\TypingGame\obj\x86\Debug\TypingGame.Properties.Resources.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\TypingGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\TypingGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\TypingGame\bin\Debug\TypingGame.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\TypingGame\bin\Debug\TypingGame.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\TypingGame\obj\x86\Debug\TypingGame.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\TypingGame\obj\x86\Debug\TypingGame.pdb
