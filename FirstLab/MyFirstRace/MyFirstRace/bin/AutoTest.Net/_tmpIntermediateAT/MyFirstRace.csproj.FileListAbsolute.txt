@@ -3,3 +3,7 @@ C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\bin\AutoTest.Net\_tmpI
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\bin\AutoTest.Net\_tmpIntermediateAT\MyFirstRace.pdb
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\bin\AutoTest.Net\MyFirstRace.exe
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\bin\AutoTest.Net\MyFirstRace.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\bin\AutoTest.Net\_tmpIntermediateAT\MyFirstRace.Form1.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\bin\AutoTest.Net\_tmpIntermediateAT\GenerateResource.read.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\bin\AutoTest.Net\_tmpIntermediateAT\GenerateResource.write.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\bin\AutoTest.Net\_tmpIntermediateAT\MyFirstRace.Properties.Resources.resources
