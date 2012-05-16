@@ -1,0 +1,8 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\bin\AutoTest.Net\_tmpIntermediateAT\GoingFurther.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\bin\AutoTest.Net\GoingFurther.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\bin\AutoTest.Net\_tmpIntermediateAT\GoingFurther.Form1.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\bin\AutoTest.Net\_tmpIntermediateAT\GenerateResource.read.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\bin\AutoTest.Net\_tmpIntermediateAT\GenerateResource.write.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\bin\AutoTest.Net\_tmpIntermediateAT\GoingFurther.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\bin\AutoTest.Net\GoingFurther.exe

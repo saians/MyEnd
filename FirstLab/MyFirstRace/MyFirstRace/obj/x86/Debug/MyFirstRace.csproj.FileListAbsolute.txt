@@ -3,3 +3,7 @@ C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\bin\Debug\MyFirstRace.
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\obj\x86\Debug\MyFirstRace.exe
 C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\obj\x86\Debug\MyFirstRace.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\obj\x86\Debug\MyFirstRace.Form1.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\obj\x86\Debug\MyFirstRace.Properties.Resources.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\MyFirstRace\obj\x86\Debug\GenerateResource.write.1.tlog

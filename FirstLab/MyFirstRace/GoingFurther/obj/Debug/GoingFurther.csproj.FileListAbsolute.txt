@@ -1,0 +1,8 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\bin\Debug\GoingFurther.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\obj\Debug\GoingFurther.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\obj\Debug\GoingFurther.Form1.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\bin\Debug\GoingFurther.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\GoingFurther\obj\Debug\GoingFurther.exe
