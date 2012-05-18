@@ -11,22 +11,25 @@ namespace GoingFurther
 {
     public partial class Form1 : Form
     {
-        private Farmer farmer;
+        Farmer farmer;
         public Form1()
         {
             InitializeComponent();
-            farmer = new Farmer() {NumberOfCows = 15};
+
+            farmer = new Farmer() {NumberOfCows = 15,feedMultiplier= 1};
         }
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
-            farmer.BagofFeeds = (int) numericUpDown1.Value;
+            
+            farmer.NumberOfCows = (int) numericUpDown1.Value;
         }
 
-        private void calculateButton1_Click(object sender, EventArgs e)
+        private void calculateButton_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("I need {0} bags of feeds for {1} cows ",farmer.BagofFeeds,farmer.NumberOfCows);
+            MessageBox.Show(string.Format("I need {0} of bags for {1} number of cows ",farmer.BagofFeeds,farmer.NumberOfCows));
         }
 
+        
     }
 }

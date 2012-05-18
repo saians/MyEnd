@@ -7,17 +7,18 @@ namespace GoingFurther
 {
     class Farmer
     {
-        public int BagofFeeds;
-        public const int FeedMultiplier = 10;
-
-        private int numberOfcows;
+        public int BagofFeeds { get; private set; }
+        private int numberOfCows;
+        private int feedMultiplier;
+        public int FeedMultiplier { get { return feedMultiplier;  } }
 
         public int NumberOfCows
         {
-            get { return numberOfcows; }
-
-            set { numberOfcows = value;
-                BagofFeeds = FeedMultiplier*numberOfcows;
+            get { return numberOfCows; }
+            set
+            {
+                numberOfCows = value;
+                BagofFeeds = numberOfCows * FeedMultiplier;
             }
         }
     }
