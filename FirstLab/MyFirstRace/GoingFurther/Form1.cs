@@ -16,7 +16,7 @@ namespace GoingFurther
         {
             InitializeComponent();
 
-            farmer = new Farmer() {NumberOfCows = 15,feedMultiplier= 1};
+            farmer = new Farmer() {NumberOfCows = 15};
         }
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)

@@ -1,0 +1,8 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BirthdayParty\bin\Debug\BirthdayParty.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BirthdayParty\bin\Debug\BirthdayParty.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BirthdayParty\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BirthdayParty\obj\x86\Debug\BirthdayParty.Form1.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BirthdayParty\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BirthdayParty\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BirthdayParty\obj\x86\Debug\BirthdayParty.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BirthdayParty\obj\x86\Debug\BirthdayParty.pdb

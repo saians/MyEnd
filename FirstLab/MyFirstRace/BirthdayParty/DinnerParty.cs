@@ -2,61 +2,53 @@
 {
     class DinnerParty
     {
-        public int NumberOfPeople;
-        private decimal CostOFBeveragesPerPerson;
-        private decimal CostofDecorations;
-        private bool IsHealthyOptionSelected;
-        private bool IsfancyDeco;
-        private decimal TotalCost;
+        private int NumberOfPeople;
+        public decimal CostOfBeveragesPerPerson;
+        public decimal CostofDecorations = 0;
+        public decimal CostOFBeveragesPerPerson;
 
 
-        private const decimal FoodChargePerPerson = 25M;
-        private const decimal DrinkChargesForAlcoholPerPerson = 20M;
-        private const decimal DrinkChargesForNOnAlcoholPerPerson = 5M;
+        public const int FoodChargePerPerson = 25;
 
-        private const decimal DecorationCostPerPersonNormal = 7.5M;
-        private const decimal DecorationFeeNormal = 30M;
 
-        private const decimal DecorationCostPerPersonFancy = 15M;
-        private const decimal DecorationFeeFancy = 50M;
-
-        public decimal SetHealthyOption()
+        public void SetHealthyOption(bool healthyOption)
         {
-            if (IsHealthyOptionSelected == true)
+            if (healthyOption)
             {
-                return DrinkChargesForNOnAlcoholPerPerson;
+                CostOfBeveragesPerPerson = 5.00M;
             }
             else
             {
-                return DrinkChargesForAlcoholPerPerson;
+                CostOfBeveragesPerPerson = 20.00M;
             }
         }
 
-        public decimal CalculateCostOfDecorations()
+        public void CalculateCostOfDecorations(bool fancy)
         {
-            if (IsfancyDeco == true)
+            if (fancy)
             {
-                return CostofDecorations = (DecorationCostPerPersonFancy + DecorationFeeFancy) * (NumberOfPeople);
+                CostofDecorations = (NumberOfPeople * 15M) + 50M;
             }
             else
             {
-                return CostofDecorations = (DecorationCostPerPersonNormal + DecorationFeeNormal) * NumberOfPeople;
+                CostofDecorations = (NumberOfPeople * 7.50M) + 50M;
             }
         }
 
-        public decimal CalculateCost()
+        public decimal CalculateCost(bool isHealthy)
         {
-            if (IsHealthyOptionSelected == true)
-            {
-                 TotalCost =  DrinkChargesForAlcoholPerPerson + CalculateCostOfDecorations();
+            decimal totalCost = CostofDecorations + ((CostOFBeveragesPerPerson + FoodChargePerPerson) * NumberOfPeople);
 
-                 return TotalCost = TotalCost - (TotalCost * (decimal) 0.05);
+            if (isHealthy)
+            {
+                return totalCost * .95M;
             }
             else
             {
-                TotalCost = DrinkChargesForNOnAlcoholPerPerson + CalculateCostOfDecorations();
-                return TotalCost;
+                return totalCost;
             }
+
         }
+
     }
 }
