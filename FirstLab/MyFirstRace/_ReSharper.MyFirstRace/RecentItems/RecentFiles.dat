@@ -1,7 +1,5 @@
 ﻿<RecentFiles>
   <RecentFiles>
-    <File id="88C93490-6C90-4119-BEB2-BF13E2E96873/f:Form1.cs" caret="630" fromTop="25" />
-    <File id="88C93490-6C90-4119-BEB2-BF13E2E96873/f:TalkingForm.Designer.cs" caret="4257" fromTop="26" />
     <File id="88C93490-6C90-4119-BEB2-BF13E2E96873/f:TalkingForm.cs" caret="653" fromTop="24" />
     <File id="88C93490-6C90-4119-BEB2-BF13E2E96873/f:Talking.cs" caret="0" fromTop="0" />
     <File id="D2E2E2EB-024B-4A5D-9147-766C455309A5/f:GuyForm.Designer.cs" caret="0" fromTop="0" />
@@ -26,19 +24,14 @@
     <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:Form1.cs" caret="965" fromTop="20" />
     <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:DinnerParty.cs" caret="91" fromTop="1" />
     <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:BirthdayParty.cs" caret="0" fromTop="0" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:Jewels.cs" caret="0" fromTop="0" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:Owner.cs" caret="164" fromTop="7" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:Safe.cs" caret="570" fromTop="23" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:Locksmith.cs" caret="538" fromTop="18" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:JewelThief.cs" caret="365" fromTop="15" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:Program.cs" caret="338" fromTop="14" />
   </RecentFiles>
   <RecentEdits>
-    <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:DinnerParty.cs" caret="903" fromTop="3" />
-    <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:DinnerParty.cs" caret="903" fromTop="31" />
-    <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:DinnerParty.cs" caret="9585" fromTop="32" />
-    <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:BirthdayParty.cs" caret="0" fromTop="0" />
-    <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:DinnerParty.cs" caret="344" fromTop="4" />
-    <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:Form1.cs" caret="833" fromTop="26" />
-    <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:Form1.cs" caret="1488" fromTop="19" />
-    <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:Form1.cs" caret="1253" fromTop="21" />
-    <File id="4D76B140-0CC9-4034-9FF5-55FB6948A34A/f:Form1.cs" caret="416" fromTop="18" />
-    <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:Program.cs" caret="382" fromTop="14" />
-    <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:DinnerParty.cs" caret="1310" fromTop="32" />
     <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:DinnerParty.cs" caret="1310" fromTop="38" />
     <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:DinnerParty.cs" caret="1316" fromTop="34" />
     <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:DinnerParty.cs" caret="903" fromTop="18" />
@@ -58,5 +51,16 @@
     <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:Form1.cs" caret="275" fromTop="1" />
     <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:DinnerParty.cs" caret="68" fromTop="4" />
     <File id="4288B327-36B6-4DE8-BDF5-AB5E675219EC/f:DinnerParty.cs" caret="1310" fromTop="22" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:Safe.cs" caret="570" fromTop="27" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:Owner.cs" caret="351" fromTop="11" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:Safe.cs" caret="575" fromTop="20" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:Locksmith.cs" caret="631" fromTop="20" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:Owner.cs" caret="164" fromTop="7" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:Jewels.cs" caret="0" fromTop="0" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:Locksmith.cs" caret="51" fromTop="2" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:Locksmith.cs" caret="656" fromTop="25" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:JewelThief.cs" caret="131" fromTop="4" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:JewelThief.cs" caret="366" fromTop="16" />
+    <File id="5C911E32-CE11-43A1-AC05-ADF8462B4CE9/f:Program.cs" caret="338" fromTop="14" />
   </RecentEdits>
 </RecentFiles>

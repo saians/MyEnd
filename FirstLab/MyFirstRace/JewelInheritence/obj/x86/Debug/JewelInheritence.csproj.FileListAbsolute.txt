@@ -1,0 +1,5 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\JewelInheritence\bin\Debug\JewelInheritence.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\JewelInheritence\bin\Debug\JewelInheritence.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\JewelInheritence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\JewelInheritence\obj\x86\Debug\JewelInheritence.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\JewelInheritence\obj\x86\Debug\JewelInheritence.pdb

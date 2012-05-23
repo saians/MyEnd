@@ -1,0 +1,5 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\JewelInheritence\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\JewelInheritence\bin\AutoTest.Net\_tmpIntermediateAT\JewelInheritence.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\JewelInheritence\bin\AutoTest.Net\_tmpIntermediateAT\JewelInheritence.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\JewelInheritence\bin\AutoTest.Net\JewelInheritence.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\JewelInheritence\bin\AutoTest.Net\JewelInheritence.pdb

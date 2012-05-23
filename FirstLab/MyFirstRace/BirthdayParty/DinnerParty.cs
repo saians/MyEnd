@@ -2,7 +2,7 @@
 {
     class DinnerParty
     {
-        private int NumberOfPeople;
+        public int NumberOfPeople;
         public decimal CostOfBeveragesPerPerson;
         public decimal CostofDecorations = 0;
         public decimal CostOFBeveragesPerPerson;
