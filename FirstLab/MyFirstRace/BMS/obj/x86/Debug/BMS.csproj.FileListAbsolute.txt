@@ -1,0 +1,9 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BMS\obj\x86\Debug\BMS.Form1.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BMS\obj\x86\Debug\BMS.Properties.Resources.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BMS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BMS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BMS\bin\Debug\BMS.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BMS\bin\Debug\BMS.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BMS\obj\x86\Debug\BMS.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\BMS\obj\x86\Debug\BMS.pdb
