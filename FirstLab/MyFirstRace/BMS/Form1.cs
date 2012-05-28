@@ -1,4 +1,6 @@
-﻿using System.Windows.Forms;
+﻿
+
+using System.Windows.Forms;
 
 namespace BMS
 {
@@ -19,8 +21,8 @@ namespace BMS
 
         private void assignButton_Click(object sender, System.EventArgs e)
         {
-            if (queen.AssignWork(comboBox1.Text, (int)shifts.Value) == false)
-                MessageBox.Show("No workers are available to do this job ' " + comboBox1.Text + "'",
+            if (queen.AssignWork(workerBeeJob.Text, (int)shifts.Value) == false)
+                MessageBox.Show("No workers are available to do this job ' " + workerBeeJob.Text + "'",
                                 "The queen bee says..");
         }
 
@@ -29,5 +31,6 @@ namespace BMS
             report.Text = queen.WorkTheNextShift();
         }
 
+     
     }
 }

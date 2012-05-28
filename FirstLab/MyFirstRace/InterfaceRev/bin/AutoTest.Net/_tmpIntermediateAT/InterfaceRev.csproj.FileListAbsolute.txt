@@ -1,0 +1,5 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\InterfaceRev\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\InterfaceRev\bin\AutoTest.Net\_tmpIntermediateAT\InterfaceRev.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\InterfaceRev\bin\AutoTest.Net\_tmpIntermediateAT\InterfaceRev.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\InterfaceRev\bin\AutoTest.Net\InterfaceRev.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\InterfaceRev\bin\AutoTest.Net\InterfaceRev.pdb

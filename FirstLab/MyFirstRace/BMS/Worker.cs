@@ -1,39 +1,44 @@
-﻿using System.Windows.Forms;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
 namespace BMS
 {
     class Worker
     {
-        //public readonly string CurrentJob;
-        public readonly int shiftsLeft;
-        private string[] jobICanDo;
-        private int shiftsToWork;
-        private int shiftsWorked;
-        private string currentJob = "";
-
-        public Worker(string[] workers)
+        public Worker(string[] jobsICanDo)
         {
-            this.jobICanDo = jobICanDo;
+            this.jobsICanDo = jobsICanDo;
         }
 
         public int ShiftsLeft
         {
-            get { return shiftsToWork - shiftsWorked; }
+            get
+            {
+                return shiftsToWork - shiftsWorked;
+            }
         }
 
+        private string currentJob = "";
         public string CurrentJob
         {
-            get { return currentJob; }
+            get
+            {
+                return currentJob;
+            }
         }
+
+        private string[] jobsICanDo;
+        private int shiftsToWork;
+        private int shiftsWorked;
 
         public bool DoThisJob(string job, int numberOfShifts)
         {
-            if (!string.IsNullOrEmpty(currentJob))
+            if (!String.IsNullOrEmpty(currentJob))
                 return false;
-
-            for (int i = 0; i < jobICanDo.Length; i++)
-
-                if (jobICanDo[i] == job)
+            for (int i = 0; i < jobsICanDo.Length; i++)
+                if (jobsICanDo[i] == job)
                 {
                     currentJob = job;
                     this.shiftsToWork = numberOfShifts;
@@ -45,7 +50,7 @@ namespace BMS
 
         public bool WorkOneShift()
         {
-            if (string.IsNullOrEmpty(currentJob))
+            if (String.IsNullOrEmpty(currentJob))
                 return false;
             shiftsWorked++;
             if (shiftsWorked > shiftsToWork)
@@ -56,13 +61,7 @@ namespace BMS
                 return true;
             }
             else
-            {
                 return false;
-            }
         }
-
-
-
-
     }
 }

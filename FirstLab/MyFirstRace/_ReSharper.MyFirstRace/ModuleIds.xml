@@ -7,5 +7,6 @@
   <Module PersistentId="EA5CA0F0-068E-4C93-A04C-4EB7D614387A" ModuleId="TypingGame" />
   <Module PersistentId="4288B327-36B6-4DE8-BDF5-AB5E675219EC" ModuleId="BirthdayParty" />
   <Module PersistentId="5C911E32-CE11-43A1-AC05-ADF8462B4CE9" ModuleId="JewelInheritence" />
-  <Module PersistentId="0B83DD6C-AB7B-4DBA-A182-FCE5837AE007" ModuleId="BMS" />
+  <Module PersistentId="F36CB58A-C355-4AB4-89D0-27AC9E19B0F9" ModuleId="InterfaceRev" />
+  <Module PersistentId="12C30387-DBAD-4E3B-9F44-B5FBC2EB58BF" ModuleId="LittInterfacePrac" />
 </Modules>

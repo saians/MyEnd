@@ -5,7 +5,7 @@
         /// <summary>
         /// Required designer variable.
         /// </summary>
-        private System.ComponentModel.IContainer components = null;
+        private System.ComponentModel.IContainer components;
 
         /// <summary>
         /// Clean up any resources being used.
@@ -28,108 +28,130 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.report = new System.Windows.Forms.TextBox();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.label2 = new System.Windows.Forms.Label();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.assignButton = new System.Windows.Forms.Button();
+            this.workerBeeJob = new System.Windows.Forms.ComboBox();
             this.shifts = new System.Windows.Forms.NumericUpDown();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.nextShiftbutton = new System.Windows.Forms.Button();
-            this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.shifts)).BeginInit();
+            this.label2 = new System.Windows.Forms.Label();
+            this.assignJob = new System.Windows.Forms.Button();
+            this.nextShift = new System.Windows.Forms.Button();
+            this.report = new System.Windows.Forms.TextBox();
+            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // report
+            // groupBox1
             // 
-            this.report.Location = new System.Drawing.Point(17, 139);
-            this.report.Multiline = true;
-            this.report.Name = "report";
-            this.report.Size = new System.Drawing.Size(273, 112);
-            this.report.TabIndex = 0;
-            // 
-            // panel1
-            // 
-            this.panel1.Controls.Add(this.label2);
-            this.panel1.Controls.Add(this.label1);
-            this.panel1.Controls.Add(this.assignButton);
-            this.panel1.Controls.Add(this.shifts);
-            this.panel1.Controls.Add(this.comboBox1);
-            this.panel1.Location = new System.Drawing.Point(5, 12);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(204, 123);
-            this.panel1.TabIndex = 1;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 10);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(80, 13);
-            this.label2.TabIndex = 4;
-            this.label2.Text = "Worker bee job";
+            this.groupBox1.Controls.Add(this.assignJob);
+            this.groupBox1.Controls.Add(this.label2);
+            this.groupBox1.Controls.Add(this.shifts);
+            this.groupBox1.Controls.Add(this.workerBeeJob);
+            this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Location = new System.Drawing.Point(12, 12);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(240, 87);
+            this.groupBox1.TabIndex = 0;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Worker Bee Assignments";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(9, 53);
+            this.label1.Location = new System.Drawing.Point(6, 16);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(33, 13);
-            this.label1.TabIndex = 3;
-            this.label1.Text = "Shifts";
+            this.label1.Size = new System.Drawing.Size(80, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Worker bee job";
             // 
-            // assignButton
+            // workerBeeJob
             // 
-            this.assignButton.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
-            this.assignButton.Location = new System.Drawing.Point(12, 95);
-            this.assignButton.Name = "assignButton";
-            this.assignButton.Size = new System.Drawing.Size(137, 23);
-            this.assignButton.TabIndex = 2;
-            this.assignButton.Text = "Assign this job to bee";
-            this.assignButton.UseVisualStyleBackColor = true;
-            this.assignButton.Click += new System.EventHandler(this.assignButton_Click);
+            this.workerBeeJob.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.workerBeeJob.FormattingEnabled = true;
+            this.workerBeeJob.Items.AddRange(new object[] {
+            "Nectar collector",
+            "Egg care",
+            "Hive maintenance",
+            "Baby bee tutoring",
+            "Honey manufacturing",
+            "Sting patrol"});
+            this.workerBeeJob.Location = new System.Drawing.Point(9, 32);
+            this.workerBeeJob.Name = "workerBeeJob";
+            this.workerBeeJob.Size = new System.Drawing.Size(167, 21);
+            this.workerBeeJob.TabIndex = 1;
             // 
             // shifts
             // 
-            this.shifts.Location = new System.Drawing.Point(12, 69);
+            this.shifts.Location = new System.Drawing.Point(182, 33);
+            this.shifts.Maximum = new decimal(new int[] {
+            10,
+            0,
+            0,
+            0});
+            this.shifts.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
             this.shifts.Name = "shifts";
-            this.shifts.Size = new System.Drawing.Size(76, 20);
-            this.shifts.TabIndex = 1;
-            this.shifts.Tag = "";
+            this.shifts.Size = new System.Drawing.Size(52, 20);
+            this.shifts.TabIndex = 2;
+            this.shifts.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
             // 
-            // comboBox1
+            // label2
             // 
-            this.comboBox1.AccessibleName = "";
-            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(12, 29);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(137, 21);
-            this.comboBox1.TabIndex = 0;
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(179, 16);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(33, 13);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Shifts";
             // 
-            // nextShiftbutton
+            // assignJob
             // 
-            this.nextShiftbutton.Location = new System.Drawing.Point(215, 12);
-            this.nextShiftbutton.Name = "nextShiftbutton";
-            this.nextShiftbutton.Size = new System.Drawing.Size(75, 123);
-            this.nextShiftbutton.TabIndex = 2;
-            this.nextShiftbutton.Text = "Work the next shift";
-            this.nextShiftbutton.UseVisualStyleBackColor = true;
-            this.nextShiftbutton.Click += new System.EventHandler(this.nextShiftbutton_Click);
+            this.assignJob.Location = new System.Drawing.Point(9, 58);
+            this.assignJob.Name = "assignJob";
+            this.assignJob.Size = new System.Drawing.Size(167, 23);
+            this.assignJob.TabIndex = 4;
+            this.assignJob.Text = "Assign this job to a bee";
+            this.assignJob.UseVisualStyleBackColor = true;
+            this.assignJob.Click += new System.EventHandler(this.assignButton_Click);
+            // 
+            // nextShift
+            // 
+            this.nextShift.Location = new System.Drawing.Point(258, 21);
+            this.nextShift.Name = "nextShift";
+            this.nextShift.Size = new System.Drawing.Size(69, 72);
+            this.nextShift.TabIndex = 5;
+            this.nextShift.Text = "Work the next shift";
+            this.nextShift.UseVisualStyleBackColor = true;
+            this.nextShift.Click += new System.EventHandler(this.nextShiftbutton_Click);
+            // 
+            // report
+            // 
+            this.report.Location = new System.Drawing.Point(12, 105);
+            this.report.Multiline = true;
+            this.report.Name = "report";
+            this.report.Size = new System.Drawing.Size(315, 145);
+            this.report.TabIndex = 6;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(302, 262);
-            this.Controls.Add(this.nextShiftbutton);
-            this.Controls.Add(this.panel1);
+            this.ClientSize = new System.Drawing.Size(339, 262);
             this.Controls.Add(this.report);
+            this.Controls.Add(this.nextShift);
+            this.Controls.Add(this.groupBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Form1";
-            this.Text = "Form1";
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.shifts)).EndInit();
+            this.Text = "Beehive Management System";
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -137,14 +159,14 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox report;
-        private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Button assignButton;
-        private System.Windows.Forms.NumericUpDown shifts;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.Button nextShiftbutton;
+        private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ComboBox workerBeeJob;
+        private System.Windows.Forms.NumericUpDown shifts;
+        private System.Windows.Forms.Button assignJob;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button nextShift;
+        private System.Windows.Forms.TextBox report;
     }
 }
 

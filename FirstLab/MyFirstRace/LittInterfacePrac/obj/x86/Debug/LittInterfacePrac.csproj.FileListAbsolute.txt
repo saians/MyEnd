@@ -1,0 +1,9 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LittInterfacePrac\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LittInterfacePrac\obj\x86\Debug\LittInterfacePrac.Properties.Resources.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LittInterfacePrac\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LittInterfacePrac\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LittInterfacePrac\bin\Debug\LittInterfacePrac.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LittInterfacePrac\bin\Debug\LittInterfacePrac.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LittInterfacePrac\obj\x86\Debug\LittInterfacePrac.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LittInterfacePrac\obj\x86\Debug\LittInterfacePrac.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LittInterfacePrac\obj\x86\Debug\LittInterfacePrac.Form1.resources
