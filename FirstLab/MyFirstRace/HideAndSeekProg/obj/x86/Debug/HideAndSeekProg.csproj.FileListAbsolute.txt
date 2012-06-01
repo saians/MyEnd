@@ -1,0 +1,9 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\HideAndSeekProg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\HideAndSeekProg\obj\x86\Debug\LongExer.Form1.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\HideAndSeekProg\obj\x86\Debug\HideAndSeekProg.Properties.Resources.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\HideAndSeekProg\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\HideAndSeekProg\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\HideAndSeekProg\bin\Debug\HideAndSeekProg.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\HideAndSeekProg\bin\Debug\HideAndSeekProg.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\HideAndSeekProg\obj\x86\Debug\HideAndSeekProg.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\HideAndSeekProg\obj\x86\Debug\HideAndSeekProg.pdb

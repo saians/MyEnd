@@ -1,0 +1,5 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\EnumAndColl\bin\Debug\EnumAndColl.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\EnumAndColl\bin\Debug\EnumAndColl.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\EnumAndColl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\EnumAndColl\obj\x86\Debug\EnumAndColl.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\EnumAndColl\obj\x86\Debug\EnumAndColl.pdb

@@ -1,0 +1,9 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\obj\x86\Debug\LongExer.Properties.Resources.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\bin\Debug\LongExer.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\bin\Debug\LongExer.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\obj\x86\Debug\LongExer.Form1.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\obj\x86\Debug\LongExer.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\obj\x86\Debug\LongExer.pdb

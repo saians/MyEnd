@@ -9,4 +9,7 @@
   <Module PersistentId="5C911E32-CE11-43A1-AC05-ADF8462B4CE9" ModuleId="JewelInheritence" />
   <Module PersistentId="F36CB58A-C355-4AB4-89D0-27AC9E19B0F9" ModuleId="InterfaceRev" />
   <Module PersistentId="12C30387-DBAD-4E3B-9F44-B5FBC2EB58BF" ModuleId="LittInterfacePrac" />
+  <Module PersistentId="20C035D0-EA3C-419E-B9DD-A3A055EFAA54" ModuleId="LongExer" />
+  <Module PersistentId="893A2A3C-39DB-4B16-9D1B-5898A2A595FE" ModuleId="HideAndSeekProg" />
+  <Module PersistentId="8C3ED8E4-AB9A-495F-BEB7-0B835560DDC0" ModuleId="EnumAndColl" />
 </Modules>

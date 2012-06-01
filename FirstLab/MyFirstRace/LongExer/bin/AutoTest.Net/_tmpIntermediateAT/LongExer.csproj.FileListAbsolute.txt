@@ -1,0 +1,9 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\bin\AutoTest.Net\_tmpIntermediateAT\LongExer.Properties.Resources.resources
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\bin\AutoTest.Net\_tmpIntermediateAT\GenerateResource.read.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\bin\AutoTest.Net\_tmpIntermediateAT\GenerateResource.write.1.tlog
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\bin\AutoTest.Net\_tmpIntermediateAT\LongExer.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\bin\AutoTest.Net\_tmpIntermediateAT\LongExer.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\bin\AutoTest.Net\LongExer.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\bin\AutoTest.Net\LongExer.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\LongExer\bin\AutoTest.Net\_tmpIntermediateAT\LongExer.Form1.resources

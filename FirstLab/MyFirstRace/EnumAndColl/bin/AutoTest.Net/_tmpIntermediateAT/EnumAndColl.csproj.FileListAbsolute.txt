@@ -1,0 +1,5 @@
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\EnumAndColl\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\EnumAndColl\bin\AutoTest.Net\_tmpIntermediateAT\EnumAndColl.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\EnumAndColl\bin\AutoTest.Net\_tmpIntermediateAT\EnumAndColl.pdb
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\EnumAndColl\bin\AutoTest.Net\EnumAndColl.exe
+C:\Users\Saifullah\MyEnd\FirstLab\MyFirstRace\EnumAndColl\bin\AutoTest.Net\EnumAndColl.pdb
